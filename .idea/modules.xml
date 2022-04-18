@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_leetcode/00_leetcode.iml" filepath="$PROJECT_DIR$/00_leetcode/00_leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-動態數組/02-動態數組.iml" filepath="$PROJECT_DIR$/02-動態數組/02-動態數組.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-鏈錶/03-鏈錶.iml" filepath="$PROJECT_DIR$/03-鏈錶/03-鏈錶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-棧/04-棧.iml" filepath="$PROJECT_DIR$/04-棧/04-棧.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-隊列/05-隊列.iml" filepath="$PROJECT_DIR$/05-隊列/05-隊列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-二叉搜索樹/06-二叉搜索樹.iml" filepath="$PROJECT_DIR$/06-二叉搜索樹/06-二叉搜索樹.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_AVL樹/07_AVL樹.iml" filepath="$PROJECT_DIR$/07_AVL樹/07_AVL樹.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_紅黑樹/08_紅黑樹.iml" filepath="$PROJECT_DIR$/08_紅黑樹/08_紅黑樹.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_集合/09_集合.iml" filepath="$PROJECT_DIR$/09_集合/09_集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_映射/10_映射.iml" filepath="$PROJECT_DIR$/10_映射/10_映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_堆/11_堆.iml" filepath="$PROJECT_DIR$/11_堆/11_堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jackson_Data_Structure.iml" filepath="$PROJECT_DIR$/.idea/jackson_Data_Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分治/分治.iml" filepath="$PROJECT_DIR$/分治/分治.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排序/排序.iml" filepath="$PROJECT_DIR$/排序/排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/貪心/貪心.iml" filepath="$PROJECT_DIR$/貪心/貪心.iml" />
+      <module fileurl="file://$PROJECT_DIR$/遞歸/遞歸.iml" filepath="$PROJECT_DIR$/遞歸/遞歸.iml" />
+    </modules>
+  </component>
+</project>

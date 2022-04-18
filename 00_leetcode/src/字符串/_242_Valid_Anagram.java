@@ -1,0 +1,19 @@
+package 字符串;
+
+public class _242_Valid_Anagram {
+	public boolean isAnagram(String s, String t) {
+		if (s == null || t == null) return false;
+		if (s.length() != t.length()) return false;
+//		char[] schars = s.toCharArray();
+//		char[] tchars = t.toCharArray();
+
+		int[] counts = new int[26];
+		for (int i = 0; i < s.length(); i++) {
+			counts[s.charAt(i) - 'a']++;
+		}
+		for (int i = 0; i < t.length(); i++) {
+			if (--counts[t.charAt(i)- 'a'] < 0)return false;
+		}
+		return true;
+	}
+}
